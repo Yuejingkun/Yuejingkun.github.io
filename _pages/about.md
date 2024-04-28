@@ -8,8 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Jingkun Yue, a first-year postgraduate student at Beijing University of Posts and Telecommunications, advised by Prof.[Guangyu Wang](https://teacher.bupt.edu.cn/wangguangyu/zh_CN/index.htm)! Before that, I received dual bachelor’s degrees from Beijing University of Posts and Telecommunications and Queen Mary University of London through a joint training program, which laid a solid foundation for my academic pursuits!
+Hi~ I am Jingkun Yue, a first-year postgraduate student at Beijing University of Posts and Telecommunications, advised by Prof.[Guangyu Wang](https://teacher.bupt.edu.cn/wangguangyu/zh_CN/index.htm)! Before that, I received dual bachelor’s degrees from Beijing University of Posts and Telecommunications ([BUPT](https://www.bupt.edu.cn/)) and Queen Mary University of London ([QMUL](https://www.qmul.ac.uk/)) through a joint training program, which laid a solid foundation for my academic pursuits!
 
 Research
 ======
-My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+My research interests lie in applying artificial intelligence for Biomedical field. Specifically I am interested in the following research topics:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Generalist Vision Foundation Models for Medical Imaging.**  
+
+I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
+
+News
+======
+\[2023.10\] Got one paper accepted at IEEE BIBM 2023. Thanks to all my collaborators!
