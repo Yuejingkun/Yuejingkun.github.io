@@ -12,4 +12,4 @@ Please feel free to check my [[CV]](/files/Jingkun_Yue_Chinese_CV_April2024.pdf)
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5nQDltFGJyoiO3wciydO7S8NLGBAFEfmqpzT8lAY4oY&cl=ffffff&w=a"></script>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5nQDltFGJyoiO3wciydO7S8NLGBAFEfmqpzT8lAY4oY"></script>
+
