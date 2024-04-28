@@ -10,6 +10,6 @@ redirect_from:
 Please feel free to check my [[CV]](/files/Jingkun_Yue_Chinese_CV_April2024.pdf)   (Last update: April. 2024).
 
 
-<a href="https://clustrmaps.com/site/1bzhl"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=5nQDltFGJyoiO3wciydO7S8NLGBAFEfmqpzT8lAY4oY&cl=ffffff" /></a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=5nQDltFGJyoiO3wciydO7S8NLGBAFEfmqpzT8lAY4oY'></script>
 
 
