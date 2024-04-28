@@ -20,4 +20,4 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
-\[2023.10\] Got one paper accepted at IEEE BIBM 2023. Thanks to all my collaborators!
+[2023.12] Got one paper accepted at IEEE BIBM 2023. Thanks to all my collaborators!
