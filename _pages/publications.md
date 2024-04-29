@@ -12,6 +12,6 @@ author_profile: true
 
 **2023**
 
-**Box2Pseudo: A Semi-Supervised Learning Framework for Pulmonary Nodule Segmentation with Box-Prompt Pseudo Supervision** [[PDF]](https://ieeexplore.ieee.org/abstract/document/10385901) \
+**Box2Pseudo: A Semi-Supervised Learning Framework for Pulmonary Nodule Segmentation with Box-Prompt Pseudo Supervision** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10385901) \
 Siqi Zhang, **Jingkun Yue**, Chengdi Wang, Xiaohong Liu, Guangyu Wang \
 BIBM 2023.
