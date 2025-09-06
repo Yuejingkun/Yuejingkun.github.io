@@ -10,6 +10,13 @@ author_profile: true
 {% endif %}
 
 
+**2025**
+
+**A generalist foundation model and database for open-world medical image segmentation** [[Paper]](https://www.nature.com/articles/s41551-025-01497-3) [[Code]](https://github.com/MedSegX/MedSegX-code) [[Data]](https://huggingface.co/datasets/medicalai/MedSegDB) \
+Siqi Zhang*, Qizhe Zhang*, Shanghang Zhang*, Xiaohong Liu*, **Jingkun Yue\***, Ming Lu, Huihuan Xu, Jiaxin Yao, Xiaobao Wei, Jiajun Cao, Xiang Zhang, Ming Gao, Jun Shen, Yichang Hao, Yinkui Wang, Xingcai Zhang, Song Wu, Ping Zhang, Shuguang Cui & Guangyu Wang \
+Nature Biomedical Engineering 2025.
+
+
 **2024**
 
 **DED-SAM: Data-Efficient Distillation towards light-weight Medical SAM via Diverse, Balanced, Representative Core-Set Selection** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10822833) \
@@ -29,3 +36,5 @@ BIBM 2024.
 **Box2Pseudo: A Semi-Supervised Learning Framework for Pulmonary Nodule Segmentation with Box-Prompt Pseudo Supervision** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10385901) \
 Siqi Zhang, **Jingkun Yue**, Chengdi Wang, Xiaohong Liu, Guangyu Wang \
 BIBM 2023.
+
+\* indicates equal contribution
