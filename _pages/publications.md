@@ -13,7 +13,7 @@ author_profile: true
 **2025**
 
 **A generalist foundation model and database for open-world medical image segmentation** [[Paper]](https://www.nature.com/articles/s41551-025-01497-3) [[Code]](https://github.com/MedSegX/MedSegX-code) [[Data]](https://huggingface.co/datasets/medicalai/MedSegDB) \
-Siqi Zhang*, Qizhe Zhang*, Shanghang Zhang*, Xiaohong Liu*, **Jingkun Yue\***, Ming Lu, Huihuan Xu, Jiaxin Yao, Xiaobao Wei, Jiajun Cao, Xiang Zhang, Ming Gao, Jun Shen, Yichang Hao, Yinkui Wang, Xingcai Zhang, Song Wu, Ping Zhang, Shuguang Cui & Guangyu Wang \
+Siqi Zhang\*, Qizhe Zhang\*, Shanghang Zhang\*, Xiaohong Liu\*, **Jingkun Yue\***, Ming Lu, Huihuan Xu, Jiaxin Yao, Xiaobao Wei, Jiajun Cao, Xiang Zhang, Ming Gao, Jun Shen, Yichang Hao, Yinkui Wang, Xingcai Zhang, Song Wu, Ping Zhang, Shuguang Cui & Guangyu Wang \
 Nature Biomedical Engineering 2025.
 
 
