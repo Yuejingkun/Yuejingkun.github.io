@@ -20,7 +20,7 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
-[2025.09] Got one paper accepted at NeurIPS Datasets and Benchmarks Track 2025 as a **spotlight**. Thanks to all my collaborators!
+[2025.09] Got one paper accepted at NeurIPS 2025 Datasets and Benchmarks Track as a **Spotlight**. Thanks to all my collaborators!
 
 [2025.09] Got one paper accepted at Nature Biomedical Engineering 2025. Thanks to all my collaborators!
 
