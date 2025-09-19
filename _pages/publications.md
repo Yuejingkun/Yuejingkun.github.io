@@ -12,6 +12,10 @@ author_profile: true
 
 **2025**
 
+**MedSG-Bench: A Benchmark for Medical Image Sequences Grounding** [[Paper]](https://arxiv.org/abs/2505.11852) [[Data]](https://huggingface.co/MedSG-Bench) \
+**Jingkun Yue**, Siqi Zhang, Zinan Jia, Huihuan Xu, Zongbo Han, Xiaohong Liu, Guangyu Wang \
+NeurIPS 2025 Datasets and Benchmarks Track **(Spotlight)**.
+
 **A generalist foundation model and database for open-world medical image segmentation** [[Paper]](https://www.nature.com/articles/s41551-025-01497-3) [[Code]](https://github.com/MedSegX/MedSegX-code) [[Data]](https://huggingface.co/datasets/medicalai/MedSegDB) \
 Siqi Zhang\*, Qizhe Zhang\*, Shanghang Zhang\*, Xiaohong Liu\*, **Jingkun Yue\***, Ming Lu, Huihuan Xu, Jiaxin Yao, Xiaobao Wei, Jiajun Cao, Xiang Zhang, Ming Gao, Jun Shen, Yichang Hao, Yinkui Wang, Xingcai Zhang, Song Wu, Ping Zhang, Shuguang Cui, Guangyu Wang \
 Nature Biomedical Engineering 2025.
